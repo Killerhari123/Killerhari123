@@ -4,7 +4,7 @@ Hi there 👋, I'm Hari Bala
 
 🙋‍♂️About me
 
-->Currently Learning : javascript and dsa of python.
+->Currently Learning : javascript and dsa for python.
 
 ->Ask me about : Web Development.
 
